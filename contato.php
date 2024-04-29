@@ -12,9 +12,6 @@ $assunto_resposta = "Resposta do Formulario de Contato";
 // Mensagem inicial da resposta
 $mensagem_inicial = "Olá, \n\nObrigado por entrar em contato conosco!\n\n";
 
-?>
-
-<?php
 
 // Recebendo os dados do formulário
 $nome_usuario = $_POST['nome'];
