@@ -48,3 +48,4 @@ if ($enviado) {
     echo "Falha no envio do email de resposta.";
 }
 
+?>
